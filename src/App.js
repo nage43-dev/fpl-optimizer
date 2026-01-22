@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Search, TrendingUp, Users, DollarSign, AlertTriangle, Star, Trophy, RefreshCw, Loader, Download, Copy, Check } from 'lucide-react';
+import { Search, TrendingUp, AlertTriangle, Star, Trophy, Download, Copy, Check } from 'lucide-react';
 
 const FPLOptimizer = () => {
   const [mode, setMode] = useState('normal');
